@@ -14,6 +14,9 @@
 ## 1993
 - [Candlebox](https://music.youtube.com/playlist?list=OLAK5uy_nsNyvS-JuSzD6sm3oLQQzrm8woq7PSjKc)
 
+## 1992
+- [Pearl Jam - Jeremy](https://music.youtube.com/playlist?list=OLAK5uy_nobNqHCf5-rNeGMz3nDgu96DoyAeIpx7M)
+
 ## 1991
 - [Pearl Jam - Ten](https://music.youtube.com/playlist?list=OLAK5uy_nCmmq03HsHVw9jrLUPm1SfKXIwuCQ1hXk)
 
