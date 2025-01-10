@@ -13,3 +13,6 @@
 
 ## 1993
 - [Candlebox](https://music.youtube.com/playlist?list=OLAK5uy_nsNyvS-JuSzD6sm3oLQQzrm8woq7PSjKc)
+
+## 1968
+- [Blood, Sweat & Tears](https://music.youtube.com/playlist?list=OLAK5uy_llSW3Z-A7AIMgYHlVVH8IoBKy66uAxQa0)
