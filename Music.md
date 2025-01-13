@@ -8,6 +8,10 @@
 - [Latvian Rock Music Association](https://lrma.lv/en/)
 
 # Albums
+
+## 1999
+- [Red Hot Chili Peppers- Californication](https://music.youtube.com/playlist?list=OLAK5uy_kTnNQq084U1cNShZyo2NpbMRg2-bbuMco)
+  
 ## 1995
  - [Seven Mary Three - American Standard](https://music.youtube.com/playlist?list=OLAK5uy_kajp_LVOWuN6cWLfBW_joW8gYgqmfxSks)
 
