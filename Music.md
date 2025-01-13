@@ -14,6 +14,7 @@
 ## 1993
 - [Smashing Pumpkins - Siamese Dream](https://music.youtube.com/playlist?list=OLAK5uy_mh5IhxrZWEvvjmF8oj4owU8X9J-n3EtnQ)
 - [Candlebox](https://music.youtube.com/playlist?list=OLAK5uy_nsNyvS-JuSzD6sm3oLQQzrm8woq7PSjKc)
+- [Alice In Chains - Jar Of Flies](https://music.youtube.com/playlist?list=OLAK5uy_nm3C0nN-sovADKdh74Mgm5spUGFBzoO8Q)
 
 ## 1992
 - [Pearl Jam - Jeremy](https://music.youtube.com/playlist?list=OLAK5uy_nobNqHCf5-rNeGMz3nDgu96DoyAeIpx7M)
