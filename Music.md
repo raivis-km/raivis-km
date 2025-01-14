@@ -32,6 +32,9 @@
 - [Nirvana - Nevermind](https://music.youtube.com/playlist?list=OLAK5uy_lYnxawfGdkGePjdFhIYaS6LjP-Md6UYf0)
 - [Soundgarden - Badmotorfinger](https://music.youtube.com/playlist?list=OLAK5uy_n1puzrqoAW5xmKJ5Wp_N1srpQm8gryt8M)
 
+## 1990
+- [Mudhoney - Superfuzz Bigmuff](https://music.youtube.com/playlist?list=OLAK5uy_nN5hIVTcxMmXsWfQDjIJkPw2aPtkvYvQU)
+
 ## 1989
 - [Nirvana - Bleach](https://music.youtube.com/playlist?list=OLAK5uy_l33lV-pSSSn7IHoVBPYrblCO9mLI5ICVc)
 
