@@ -19,4 +19,5 @@
 - ?
 
 # Investigative Journalism
+- [Global Investigative Journalism Network](https://gijn.org/)
 - [Bellingcat](https://www.bellingcat.com/)
