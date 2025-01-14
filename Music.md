@@ -16,6 +16,9 @@
 ## 1995
  - [Seven Mary Three - American Standard](https://music.youtube.com/playlist?list=OLAK5uy_kajp_LVOWuN6cWLfBW_joW8gYgqmfxSks)
 
+## 1994
+- [Hole - Live Through This](https://music.youtube.com/playlist?list=OLAK5uy_ldZOaTy96cvyYrUpXhb1XeAC0DugOLYd8)
+
 ## 1993
 - [Smashing Pumpkins - Siamese Dream](https://music.youtube.com/playlist?list=OLAK5uy_mh5IhxrZWEvvjmF8oj4owU8X9J-n3EtnQ)
 - [Candlebox](https://music.youtube.com/playlist?list=OLAK5uy_nsNyvS-JuSzD6sm3oLQQzrm8woq7PSjKc)
