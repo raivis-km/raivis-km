@@ -27,6 +27,7 @@
 ## 1991
 - [Pearl Jam - Ten](https://music.youtube.com/playlist?list=OLAK5uy_nCmmq03HsHVw9jrLUPm1SfKXIwuCQ1hXk)
 - [Nirvana - Nevermind](https://music.youtube.com/playlist?list=OLAK5uy_lYnxawfGdkGePjdFhIYaS6LjP-Md6UYf0)
+- [Soundgarden - Badmotorfinger](https://music.youtube.com/playlist?list=OLAK5uy_n1puzrqoAW5xmKJ5Wp_N1srpQm8gryt8M)
 
 ## 1989
 - [Nirvana - Bleach](https://music.youtube.com/playlist?list=OLAK5uy_l33lV-pSSSn7IHoVBPYrblCO9mLI5ICVc)
