@@ -8,6 +8,19 @@
 - [Latvian Rock Music Association](https://lrma.lv/en/)
 
 # Albums
+## 2024
+- [Zeal & Ardor - GREIF](https://music.youtube.com/playlist?list=OLAK5uy_npjc-G0QzXibg5_lhIWgXQPF6_cGsuFbA)
+
+
+## 2022
+- [Zeal & Ardor](https://music.youtube.com/playlist?list=OLAK5uy_nBiHN_Zj9zWDliqLBHDVE790BUwqFrNws)
+  
+## 2018
+- [Zeal & Ardor - Stranger Fruit](https://music.youtube.com/playlist?list=OLAK5uy_mvFMmnhOJigc1mk147QRYqfyvkIdV3f-k)
+
+## 2017
+- [Zeal & Ardor - Devil Is Fine](https://music.youtube.com/playlist?list=OLAK5uy_m0ZfMi3YYSJbZwWzndNyLE7qR-sYuTPPo)
+
 ## 2002
 - [Filter - The Amalgamut](https://music.youtube.com/playlist?list=OLAK5uy_lMhxoxeQfdBsOiY_9-hkcoeZA-sVRsOuw)
 
@@ -39,7 +52,6 @@
 
 ## 1990
 - [Alice In Chains - Facelift](https://music.youtube.com/playlist?list=OLAK5uy_krGjVxCI3i6ufQxi7ghontF0BAmva13qs)
-- [Mudhoney - Superfuzz Bigmuff](https://music.youtube.com/playlist?list=OLAK5uy_nN5hIVTcxMmXsWfQDjIJkPw2aPtkvYvQU)
 
 ## 1989
 - [Nirvana - Bleach](https://music.youtube.com/playlist?list=OLAK5uy_l33lV-pSSSn7IHoVBPYrblCO9mLI5ICVc)
