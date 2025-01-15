@@ -33,6 +33,7 @@
 - [Soundgarden - Badmotorfinger](https://music.youtube.com/playlist?list=OLAK5uy_n1puzrqoAW5xmKJ5Wp_N1srpQm8gryt8M)
 
 ## 1990
+- [Alice In Chains - Facelift](https://music.youtube.com/playlist?list=OLAK5uy_krGjVxCI3i6ufQxi7ghontF0BAmva13qs)
 - [Mudhoney - Superfuzz Bigmuff](https://music.youtube.com/playlist?list=OLAK5uy_nN5hIVTcxMmXsWfQDjIJkPw2aPtkvYvQU)
 
 ## 1989
