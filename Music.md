@@ -14,7 +14,10 @@
 ## 1999
 - [Red Hot Chili Peppers- Californication](https://music.youtube.com/playlist?list=OLAK5uy_kTnNQq084U1cNShZyo2NpbMRg2-bbuMco)
 - [Machine Head - The Burning Red](https://music.youtube.com/playlist?list=OLAK5uy_l5Ojsr1ID_P5zLVTHwVaWeGCXsyOR7kOo)
-  
+
+## 1997
+- [Creed - My Own Prison](https://music.youtube.com/playlist?list=OLAK5uy_mIr2UsmyOTbL5WbCb1HiDMhw1-n-4h2CM)
+
 ## 1995
  - [Seven Mary Three - American Standard](https://music.youtube.com/playlist?list=OLAK5uy_kajp_LVOWuN6cWLfBW_joW8gYgqmfxSks)
 
