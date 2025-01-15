@@ -24,6 +24,9 @@
 ## 2004
 - [Blindside - About A Burning Fire](https://music.youtube.com/playlist?list=OLAK5uy_me70Qu5beXpn86xWXDGAJwNZYsHKTnyFA)
 
+## 2003
+- [Metallica - St. Anger](https://music.youtube.com/playlist?list=OLAK5uy_lLZbgZsZ40ofzOWIN2c3vqKMlhD3FcTxQ)
+  
 ## 2002
 - [Filter - The Amalgamut](https://music.youtube.com/playlist?list=OLAK5uy_lMhxoxeQfdBsOiY_9-hkcoeZA-sVRsOuw)
 
