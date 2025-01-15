@@ -62,6 +62,9 @@
 ## 1989
 - [Nirvana - Bleach](https://music.youtube.com/playlist?list=OLAK5uy_l33lV-pSSSn7IHoVBPYrblCO9mLI5ICVc)
 
+## 1988
+- [Metallica - ...And Justice for All](https://music.youtube.com/playlist?list=OLAK5uy_nfd04cpVQ9Xv0UsOTBshL1TU6O2vz-rhg)
+
 ## 1968
 - [The Beatles – "The White Album"](https://music.youtube.com/playlist?list=OLAK5uy_ngFkZaiOccd84mOWCf4mZKbJrvsPzm8BE)
 - [Blood, Sweat & Tears](https://music.youtube.com/playlist?list=OLAK5uy_llSW3Z-A7AIMgYHlVVH8IoBKy66uAxQa0)
