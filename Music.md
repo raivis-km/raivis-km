@@ -59,7 +59,8 @@
 
 ## 1990
 - [Alice In Chains - Facelift](https://music.youtube.com/playlist?list=OLAK5uy_krGjVxCI3i6ufQxi7ghontF0BAmva13qs)
-
+- [Paradise Lost - Lost Paradise](https://music.youtube.com/playlist?list=OLAK5uy_njmQ76RSn96-dW5LYAQkmR59orIGeO9B8)
+  
 ## 1989
 - [Nirvana - Bleach](https://music.youtube.com/playlist?list=OLAK5uy_l33lV-pSSSn7IHoVBPYrblCO9mLI5ICVc)
 
