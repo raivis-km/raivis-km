@@ -39,6 +39,7 @@
 
 ## 1995
  - [Seven Mary Three - American Standard](https://music.youtube.com/playlist?list=OLAK5uy_kajp_LVOWuN6cWLfBW_joW8gYgqmfxSks)
+ - [Smashing Pumpkins - Mellon Collie and the Infinite Sadness](https://music.youtube.com/playlist?list=OLAK5uy_k00TJUAla-j386Kzl12O6C8TBcyFxBo48)
 
 ## 1994
 - [Hole - Live Through This](https://music.youtube.com/playlist?list=OLAK5uy_ldZOaTy96cvyYrUpXhb1XeAC0DugOLYd8)
