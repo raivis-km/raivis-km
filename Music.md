@@ -22,6 +22,7 @@
 - [Zeal & Ardor - Devil Is Fine](https://music.youtube.com/playlist?list=OLAK5uy_m0ZfMi3YYSJbZwWzndNyLE7qR-sYuTPPo)
 
 ## 2004
+- [Green Day - American Idiot](https://music.youtube.com/playlist?list=OLAK5uy_mmM6IEvxyWMmJhYOVc3YyFUH7espfFHP4)
 - [Blindside - About A Burning Fire](https://music.youtube.com/playlist?list=OLAK5uy_me70Qu5beXpn86xWXDGAJwNZYsHKTnyFA)
 
 ## 2003
