@@ -21,6 +21,9 @@
 ## 2017
 - [Zeal & Ardor - Devil Is Fine](https://music.youtube.com/playlist?list=OLAK5uy_m0ZfMi3YYSJbZwWzndNyLE7qR-sYuTPPo)
 
+## 2005
+- [Seether - Karma & Effect](https://music.youtube.com/playlist?list=OLAK5uy_kFHnTlv1VTMNGT2mLq-UvSbEjilyiloF4)
+  
 ## 2004
 - [Green Day - American Idiot](https://music.youtube.com/playlist?list=OLAK5uy_mmM6IEvxyWMmJhYOVc3YyFUH7espfFHP4)
 - [Papa Roach - Getting Away With Murder](https://music.youtube.com/playlist?list=OLAK5uy_nnLSc3PL8hU5rVtxfjjg5QU5U7-Rn2RbQ)
