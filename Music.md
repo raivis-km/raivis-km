@@ -23,6 +23,7 @@
 
 ## 2004
 - [Green Day - American Idiot](https://music.youtube.com/playlist?list=OLAK5uy_mmM6IEvxyWMmJhYOVc3YyFUH7espfFHP4)
+- [Papa Roach - Getting Away With Murder](https://music.youtube.com/playlist?list=OLAK5uy_nnLSc3PL8hU5rVtxfjjg5QU5U7-Rn2RbQ)
 - [Blindside - About A Burning Fire](https://music.youtube.com/playlist?list=OLAK5uy_me70Qu5beXpn86xWXDGAJwNZYsHKTnyFA)
 
 ## 2003
