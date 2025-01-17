@@ -35,6 +35,9 @@
 ## 2002
 - [Filter - The Amalgamut](https://music.youtube.com/playlist?list=OLAK5uy_lMhxoxeQfdBsOiY_9-hkcoeZA-sVRsOuw)
 
+## 2001
+- [Puddle Of Mudd - Come Clean](https://music.youtube.com/playlist?list=OLAK5uy_nUOjF3ixMriTL16sHIsGGa62JGtnO8c6o)
+
 ## 1999
 - [Red Hot Chili Peppers- Californication](https://music.youtube.com/playlist?list=OLAK5uy_kTnNQq084U1cNShZyo2NpbMRg2-bbuMco)
 - [Machine Head - The Burning Red](https://music.youtube.com/playlist?list=OLAK5uy_l5Ojsr1ID_P5zLVTHwVaWeGCXsyOR7kOo)
