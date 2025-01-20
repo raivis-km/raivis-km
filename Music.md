@@ -39,9 +39,16 @@
 - [Puddle Of Mudd - Come Clean](https://music.youtube.com/playlist?list=OLAK5uy_nUOjF3ixMriTL16sHIsGGa62JGtnO8c6o)
 - [Flaw - Through The Eyes](https://music.youtube.com/playlist?list=OLAK5uy_lYcJJ9JhjxQgE54rs-bK55352iUQaZoAI)
 
+## 2000
+- [Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water](https://music.youtube.com/playlist?list=OLAK5uy_ndIIX6Vphp1jyPMuOZXRiebtUOu9loJ20)
+
 ## 1999
 - [Red Hot Chili Peppers- Californication](https://music.youtube.com/playlist?list=OLAK5uy_kTnNQq084U1cNShZyo2NpbMRg2-bbuMco)
 - [Machine Head - The Burning Red](https://music.youtube.com/playlist?list=OLAK5uy_l5Ojsr1ID_P5zLVTHwVaWeGCXsyOR7kOo)
+- [Crazy Town - The Gift Of Game](https://music.youtube.com/playlist?list=OLAK5uy_kKd3YA9sUYKCSdynkE3yz8Ar5gZdSL5H4)
+
+## 1998
+- [Korn - Follow The Leader](https://music.youtube.com/playlist?list=OLAK5uy_l9DBNhKxExv0Xd2CrzEY0vmUupeVjzRVw)
 
 ## 1997
 - [Creed - My Own Prison](https://music.youtube.com/playlist?list=OLAK5uy_mIr2UsmyOTbL5WbCb1HiDMhw1-n-4h2CM)
