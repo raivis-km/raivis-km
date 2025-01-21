@@ -43,6 +43,7 @@
 ## 2001
 - [Puddle Of Mudd - Come Clean](https://music.youtube.com/playlist?list=OLAK5uy_nUOjF3ixMriTL16sHIsGGa62JGtnO8c6o)
 - [Alien Ant Farm - Anthology](https://music.youtube.com/playlist?list=OLAK5uy_lQc3Q9T0CHpDDmby0IpqCv7uIHGjwfqxw)
+- [Rammstein - Mutter](https://music.youtube.com/playlist?list=OLAK5uy_nNutR-J9j_crO8GqSKSbEF-fQVGnPVBzE)
 - [Flaw - Through The Eyes](https://music.youtube.com/playlist?list=OLAK5uy_lYcJJ9JhjxQgE54rs-bK55352iUQaZoAI)
 
 ## 2000
