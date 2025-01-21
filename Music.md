@@ -22,6 +22,7 @@
 - [Zeal & Ardor - Devil Is Fine](https://music.youtube.com/playlist?list=OLAK5uy_m0ZfMi3YYSJbZwWzndNyLE7qR-sYuTPPo)
 
 ## 2006
+- [My Chemical Romance - The Black Parade](https://music.youtube.com/playlist?list=OLAK5uy_ne_HSgrl27Y4cfAMhcSWjbVhcafZ4wmMA)
 - [Breaking Benjamin - Phobia](https://music.youtube.com/playlist?list=OLAK5uy_kXsvrgPZdApbM7fm_3IBap64LIANiUUwE)
   
 ## 2005
