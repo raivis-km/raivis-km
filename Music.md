@@ -14,6 +14,9 @@
 
 ## 2022
 - [Zeal & Ardor](https://music.youtube.com/playlist?list=OLAK5uy_nBiHN_Zj9zWDliqLBHDVE790BUwqFrNws)
+
+## 2020
+- [Bring Me The Horizon - POST HUMAN: SURVIVAL HORROR](https://music.youtube.com/playlist?list=OLAK5uy_l9TPf1JXY6tsKaKURirxb8uhuIelX1kb4)
   
 ## 2018
 - [Zeal & Ardor - Stranger Fruit](https://music.youtube.com/playlist?list=OLAK5uy_mvFMmnhOJigc1mk147QRYqfyvkIdV3f-k)
@@ -71,7 +74,8 @@
 
 ## 1994
 - [Hole - Live Through This](https://music.youtube.com/playlist?list=OLAK5uy_ldZOaTy96cvyYrUpXhb1XeAC0DugOLYd8)
-
+- [Therapy? - Troublegum](https://music.youtube.com/playlist?list=OLAK5uy_mPppgAyNjFhikWoNqer5Uj_dIwYyHzqzQ)
+  
 ## 1993
 - [Smashing Pumpkins - Siamese Dream](https://music.youtube.com/playlist?list=OLAK5uy_mh5IhxrZWEvvjmF8oj4owU8X9J-n3EtnQ)
 - [Candlebox](https://music.youtube.com/playlist?list=OLAK5uy_nsNyvS-JuSzD6sm3oLQQzrm8woq7PSjKc)
