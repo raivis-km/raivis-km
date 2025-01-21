@@ -34,6 +34,7 @@
   
 ## 2002
 - [Filter - The Amalgamut](https://music.youtube.com/playlist?list=OLAK5uy_lMhxoxeQfdBsOiY_9-hkcoeZA-sVRsOuw)
+- [Red Hot Chili Peppers - By the Way](https://music.youtube.com/playlist?list=OLAK5uy_mMa5i7OJDtHbIxX8Vl87xVzphCfy24Bhw)
 
 ## 2001
 - [Puddle Of Mudd - Come Clean](https://music.youtube.com/playlist?list=OLAK5uy_nUOjF3ixMriTL16sHIsGGa62JGtnO8c6o)
