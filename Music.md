@@ -41,6 +41,7 @@
 ## 2003
 - [Metallica - St. Anger](https://music.youtube.com/playlist?list=OLAK5uy_lLZbgZsZ40ofzOWIN2c3vqKMlhD3FcTxQ)
 - [Three Days Grace - Three Days Grace](https://music.youtube.com/playlist?list=OLAK5uy_lKnsRl04yQF7IH_RxXRLYHVFo1CQQ0FtI)
+- [Static-X - Shadow Zone](https://music.youtube.com/playlist?list=OLAK5uy_n5U5C8dz3YIQ6u7Anke8BBXATcGwTaymY)
   
 ## 2002
 - [Filter - The Amalgamut](https://music.youtube.com/playlist?list=OLAK5uy_lMhxoxeQfdBsOiY_9-hkcoeZA-sVRsOuw)
