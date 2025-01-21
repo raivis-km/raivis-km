@@ -21,6 +21,9 @@
 ## 2017
 - [Zeal & Ardor - Devil Is Fine](https://music.youtube.com/playlist?list=OLAK5uy_m0ZfMi3YYSJbZwWzndNyLE7qR-sYuTPPo)
 
+## 2006
+- [Breaking Benjamin - Phobia](https://music.youtube.com/playlist?list=OLAK5uy_kXsvrgPZdApbM7fm_3IBap64LIANiUUwE)
+  
 ## 2005
 - [Seether - Karma & Effect](https://music.youtube.com/playlist?list=OLAK5uy_kFHnTlv1VTMNGT2mLq-UvSbEjilyiloF4)
   
