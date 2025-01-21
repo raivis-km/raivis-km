@@ -60,6 +60,7 @@
 ## 1999
 - [Red Hot Chili Peppers- Californication](https://music.youtube.com/playlist?list=OLAK5uy_kTnNQq084U1cNShZyo2NpbMRg2-bbuMco)
 - [Machine Head - The Burning Red](https://music.youtube.com/playlist?list=OLAK5uy_l5Ojsr1ID_P5zLVTHwVaWeGCXsyOR7kOo)
+- [Powerman 5000 - Tonight The Stars Revolt](https://music.youtube.com/playlist?list=OLAK5uy_kLM8pDBjoPHGjlJ6gUQGHj6ZjXlw-_GkI)
 - [Crazy Town - The Gift Of Game](https://music.youtube.com/playlist?list=OLAK5uy_kKd3YA9sUYKCSdynkE3yz8Ar5gZdSL5H4)
 
 ## 1998
