@@ -75,6 +75,7 @@
 ## 1998
 - [Korn - Follow The Leader](https://music.youtube.com/playlist?list=OLAK5uy_l9DBNhKxExv0Xd2CrzEY0vmUupeVjzRVw)
 - [Placebo - Without You I'm Nothing](https://music.youtube.com/playlist?list=OLAK5uy_m5AmvFW6sbIUHpBYVrJJOGzhqf9dbQIOE)
+- [Hole - Celebrity Skin](https://music.youtube.com/playlist?list=OLAK5uy_mKJJrDzqV99pGZjqIHCozze4gIJSsiD8g)
   
 ## 1997
 - [Creed - My Own Prison](https://music.youtube.com/playlist?list=OLAK5uy_mIr2UsmyOTbL5WbCb1HiDMhw1-n-4h2CM)
