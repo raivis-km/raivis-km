@@ -30,6 +30,7 @@
   
 ## 2005
 - [Seether - Karma & Effect](https://music.youtube.com/playlist?list=OLAK5uy_kFHnTlv1VTMNGT2mLq-UvSbEjilyiloF4)
+- [Korn - See You On the Other Side](https://music.youtube.com/playlist?list=OLAK5uy_nWTAgGvIEBjmwSqiHcCcNUSv3DN04iqgA)
   
 ## 2004
 - [Green Day - American Idiot](https://music.youtube.com/playlist?list=OLAK5uy_mmM6IEvxyWMmJhYOVc3YyFUH7espfFHP4)
