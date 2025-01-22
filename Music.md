@@ -39,6 +39,7 @@
 - [Blindside - About A Burning Fire](https://music.youtube.com/playlist?list=OLAK5uy_me70Qu5beXpn86xWXDGAJwNZYsHKTnyFA)
 
 ## 2003
+- [Linkin Park - Meteora](https://music.youtube.com/playlist?list=OLAK5uy_nE-SkwNA6lYF99wd-MHzJVqThnUIJGe3I)
 - [Metallica - St. Anger](https://music.youtube.com/playlist?list=OLAK5uy_lLZbgZsZ40ofzOWIN2c3vqKMlhD3FcTxQ)
 - [Three Days Grace - Three Days Grace](https://music.youtube.com/playlist?list=OLAK5uy_lKnsRl04yQF7IH_RxXRLYHVFo1CQQ0FtI)
 - [Static-X - Shadow Zone](https://music.youtube.com/playlist?list=OLAK5uy_n5U5C8dz3YIQ6u7Anke8BBXATcGwTaymY)
