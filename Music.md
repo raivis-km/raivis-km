@@ -40,6 +40,7 @@
 
 ## 2003
 - [Linkin Park - Meteora](https://music.youtube.com/playlist?list=OLAK5uy_nE-SkwNA6lYF99wd-MHzJVqThnUIJGe3I)
+- [Evanescence - Fallen](https://music.youtube.com/playlist?list=OLAK5uy_nDVLWRxRtpfZl5tZiO0U_utWz_vRe1Pfg)
 - [Metallica - St. Anger](https://music.youtube.com/playlist?list=OLAK5uy_lLZbgZsZ40ofzOWIN2c3vqKMlhD3FcTxQ)
 - [Three Days Grace - Three Days Grace](https://music.youtube.com/playlist?list=OLAK5uy_lKnsRl04yQF7IH_RxXRLYHVFo1CQQ0FtI)
 - [Static-X - Shadow Zone](https://music.youtube.com/playlist?list=OLAK5uy_n5U5C8dz3YIQ6u7Anke8BBXATcGwTaymY)
@@ -57,6 +58,7 @@
 
 ## 2000
 - [Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water](https://music.youtube.com/playlist?list=OLAK5uy_ndIIX6Vphp1jyPMuOZXRiebtUOu9loJ20)
+- [3 Doors Down - The Better Life](https://music.youtube.com/playlist?list=OLAK5uy_kGAaQomWBR3w50HIZ7nUa11_Gq9QOY__U)
 
 ## 1999
 - [Red Hot Chili Peppers- Californication](https://music.youtube.com/playlist?list=OLAK5uy_kTnNQq084U1cNShZyo2NpbMRg2-bbuMco)
