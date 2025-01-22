@@ -88,6 +88,7 @@
 ## 1994
 - [Hole - Live Through This](https://music.youtube.com/playlist?list=OLAK5uy_ldZOaTy96cvyYrUpXhb1XeAC0DugOLYd8)
 - [Therapy? - Troublegum](https://music.youtube.com/playlist?list=OLAK5uy_mPppgAyNjFhikWoNqer5Uj_dIwYyHzqzQ)
+- [Bush - Sixteen Stone](https://music.youtube.com/playlist?list=OLAK5uy_l8FV6iwpMMTHwSELNqsutodC6GJs_GFIQ)
   
 ## 1993
 - [Smashing Pumpkins - Siamese Dream](https://music.youtube.com/playlist?list=OLAK5uy_mh5IhxrZWEvvjmF8oj4owU8X9J-n3EtnQ)
