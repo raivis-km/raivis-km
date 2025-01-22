@@ -70,7 +70,8 @@
 
 ## 1998
 - [Korn - Follow The Leader](https://music.youtube.com/playlist?list=OLAK5uy_l9DBNhKxExv0Xd2CrzEY0vmUupeVjzRVw)
-
+- [Placebo - Without You I'm Nothing](https://music.youtube.com/playlist?list=OLAK5uy_m5AmvFW6sbIUHpBYVrJJOGzhqf9dbQIOE)
+  
 ## 1997
 - [Creed - My Own Prison](https://music.youtube.com/playlist?list=OLAK5uy_mIr2UsmyOTbL5WbCb1HiDMhw1-n-4h2CM)
 - [The Prodigy - The Fat of the Land](https://music.youtube.com/playlist?list=OLAK5uy_l8N9VhE-C5aH8Cj0Lfn2nk3IJexBcN3EI)
