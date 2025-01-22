@@ -11,13 +11,17 @@
 
 ### Sweden
 - ?
-- 
+  
 ### Norway
 - ?
-- 
+
 ### Denmark
 - ?
+  
+## Europe
+- [DW](https://www.dw.com/en/)
 
+  
 # Investigative Journalism
 - [Global Investigative Journalism Network](https://gijn.org/)
 - [Bellingcat](https://www.bellingcat.com/)
