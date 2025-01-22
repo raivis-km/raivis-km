@@ -17,6 +17,7 @@
 
 ## 2020
 - [Bring Me The Horizon - POST HUMAN: SURVIVAL HORROR](https://music.youtube.com/playlist?list=OLAK5uy_l9TPf1JXY6tsKaKURirxb8uhuIelX1kb4)
+- [Apocalyptica - Worlds Collide](https://music.youtube.com/playlist?list=OLAK5uy_m8MeVujdjjA3oXK8qzeCLlnPlTOvC5NEU)
   
 ## 2018
 - [Zeal & Ardor - Stranger Fruit](https://music.youtube.com/playlist?list=OLAK5uy_mvFMmnhOJigc1mk147QRYqfyvkIdV3f-k)
