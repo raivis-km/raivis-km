@@ -21,10 +21,13 @@
 ## Europe
 - [DW](https://www.dw.com/en/)
 
-## Other
+## World news
 - [AP News](https://apnews.com/)
 - [Reuters](https://www.reuters.com/)
   
 # Investigative Journalism
 - [Global Investigative Journalism Network](https://gijn.org/)
 - [Bellingcat](https://www.bellingcat.com/)
+
+# Blogs etc
+- [The War Zone](https://www.twz.com/)
