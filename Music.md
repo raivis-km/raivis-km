@@ -9,27 +9,27 @@
 
 # Albums
 ## 2024
-- [Zeal & Ardor - GREIF](https://music.youtube.com/playlist?list=OLAK5uy_npjc-G0QzXibg5_lhIWgXQPF6_cGsuFbA)
+- [x] [Zeal & Ardor - GREIF](https://music.youtube.com/playlist?list=OLAK5uy_npjc-G0QzXibg5_lhIWgXQPF6_cGsuFbA)
 
 
 ## 2022
-- [Zeal & Ardor](https://music.youtube.com/playlist?list=OLAK5uy_nBiHN_Zj9zWDliqLBHDVE790BUwqFrNws)
+- [x] [Zeal & Ardor](https://music.youtube.com/playlist?list=OLAK5uy_nBiHN_Zj9zWDliqLBHDVE790BUwqFrNws)
 
 ## 2020
-- [Bring Me The Horizon - POST HUMAN: SURVIVAL HORROR](https://music.youtube.com/playlist?list=OLAK5uy_l9TPf1JXY6tsKaKURirxb8uhuIelX1kb4)
-- [Apocalyptica - Worlds Collide](https://music.youtube.com/playlist?list=OLAK5uy_m8MeVujdjjA3oXK8qzeCLlnPlTOvC5NEU)
+- [ ] [Bring Me The Horizon - POST HUMAN: SURVIVAL HORROR](https://music.youtube.com/playlist?list=OLAK5uy_l9TPf1JXY6tsKaKURirxb8uhuIelX1kb4)
+- [ ] [Apocalyptica - Worlds Collide](https://music.youtube.com/playlist?list=OLAK5uy_m8MeVujdjjA3oXK8qzeCLlnPlTOvC5NEU)
   
 ## 2018
-- [Zeal & Ardor - Stranger Fruit](https://music.youtube.com/playlist?list=OLAK5uy_mvFMmnhOJigc1mk147QRYqfyvkIdV3f-k)
+- [x] [Zeal & Ardor - Stranger Fruit](https://music.youtube.com/playlist?list=OLAK5uy_mvFMmnhOJigc1mk147QRYqfyvkIdV3f-k)
 
 ## 2017
-- [Zeal & Ardor - Devil Is Fine](https://music.youtube.com/playlist?list=OLAK5uy_m0ZfMi3YYSJbZwWzndNyLE7qR-sYuTPPo)
+- [x] [Zeal & Ardor - Devil Is Fine](https://music.youtube.com/playlist?list=OLAK5uy_m0ZfMi3YYSJbZwWzndNyLE7qR-sYuTPPo)
 
 ## 2007
-- [Foo Fighters - Echoes, Silence, Patience & Grace](https://music.youtube.com/playlist?list=OLAK5uy_nxn8Zv2ewQJB-bOHbholRKxn_-3-zaTx0)
+- [ ] [Foo Fighters - Echoes, Silence, Patience & Grace](https://music.youtube.com/playlist?list=OLAK5uy_nxn8Zv2ewQJB-bOHbholRKxn_-3-zaTx0)
 
 ## 2006
-- [My Chemical Romance - The Black Parade](https://music.youtube.com/playlist?list=OLAK5uy_ne_HSgrl27Y4cfAMhcSWjbVhcafZ4wmMA)
+- [x] [My Chemical Romance - The Black Parade](https://music.youtube.com/playlist?list=OLAK5uy_ne_HSgrl27Y4cfAMhcSWjbVhcafZ4wmMA)
 - [Breaking Benjamin - Phobia](https://music.youtube.com/playlist?list=OLAK5uy_kXsvrgPZdApbM7fm_3IBap64LIANiUUwE)
   
 ## 2005
@@ -37,28 +37,28 @@
 - [Korn - See You On the Other Side](https://music.youtube.com/playlist?list=OLAK5uy_nWTAgGvIEBjmwSqiHcCcNUSv3DN04iqgA)
   
 ## 2004
-- [Green Day - American Idiot](https://music.youtube.com/playlist?list=OLAK5uy_mmM6IEvxyWMmJhYOVc3YyFUH7espfFHP4)
-- [Fatboy Slim - Palookaville](https://music.youtube.com/playlist?list=OLAK5uy_lJpXHe_FNQLKguhMQb7D5qYw50Wo-_Y60)
-- [Papa Roach - Getting Away With Murder](https://music.youtube.com/playlist?list=OLAK5uy_nnLSc3PL8hU5rVtxfjjg5QU5U7-Rn2RbQ)
-- [Rammstein - Reise, Reise](https://music.youtube.com/playlist?list=OLAK5uy_k2AtKMOcMEkDfMvoKJrl1ByHUMqMo_KVI)
-- [Blindside - About A Burning Fire](https://music.youtube.com/playlist?list=OLAK5uy_me70Qu5beXpn86xWXDGAJwNZYsHKTnyFA)
+- [x] [Green Day - American Idiot](https://music.youtube.com/playlist?list=OLAK5uy_mmM6IEvxyWMmJhYOVc3YyFUH7espfFHP4)
+- [ ] [Fatboy Slim - Palookaville](https://music.youtube.com/playlist?list=OLAK5uy_lJpXHe_FNQLKguhMQb7D5qYw50Wo-_Y60)
+- [ ] [Papa Roach - Getting Away With Murder](https://music.youtube.com/playlist?list=OLAK5uy_nnLSc3PL8hU5rVtxfjjg5QU5U7-Rn2RbQ)
+- [ ][Rammstein - Reise, Reise](https://music.youtube.com/playlist?list=OLAK5uy_k2AtKMOcMEkDfMvoKJrl1ByHUMqMo_KVI)
+- [ ] [Blindside - About A Burning Fire](https://music.youtube.com/playlist?list=OLAK5uy_me70Qu5beXpn86xWXDGAJwNZYsHKTnyFA)
 
 ## 2003
-- [Linkin Park - Meteora](https://music.youtube.com/playlist?list=OLAK5uy_nE-SkwNA6lYF99wd-MHzJVqThnUIJGe3I)
-- [Evanescence - Fallen](https://music.youtube.com/playlist?list=OLAK5uy_nDVLWRxRtpfZl5tZiO0U_utWz_vRe1Pfg)
-- [Metallica - St. Anger](https://music.youtube.com/playlist?list=OLAK5uy_lLZbgZsZ40ofzOWIN2c3vqKMlhD3FcTxQ)
-- [Three Days Grace - Three Days Grace](https://music.youtube.com/playlist?list=OLAK5uy_lKnsRl04yQF7IH_RxXRLYHVFo1CQQ0FtI)
-- [Static-X - Shadow Zone](https://music.youtube.com/playlist?list=OLAK5uy_n5U5C8dz3YIQ6u7Anke8BBXATcGwTaymY)
+- [x] [Linkin Park - Meteora](https://music.youtube.com/playlist?list=OLAK5uy_nE-SkwNA6lYF99wd-MHzJVqThnUIJGe3I)
+- [x] [Evanescence - Fallen](https://music.youtube.com/playlist?list=OLAK5uy_nDVLWRxRtpfZl5tZiO0U_utWz_vRe1Pfg)
+- [ ] [Metallica - St. Anger](https://music.youtube.com/playlist?list=OLAK5uy_lLZbgZsZ40ofzOWIN2c3vqKMlhD3FcTxQ)
+- [ ] [Three Days Grace - Three Days Grace](https://music.youtube.com/playlist?list=OLAK5uy_lKnsRl04yQF7IH_RxXRLYHVFo1CQQ0FtI)
+- [ ] [Static-X - Shadow Zone](https://music.youtube.com/playlist?list=OLAK5uy_n5U5C8dz3YIQ6u7Anke8BBXATcGwTaymY)
   
 ## 2002
-- [Foo Fighters - One By One](https://music.youtube.com/playlist?list=OLAK5uy_nR36vkErboYwzNp7FEvUsVm6pNdOrsS7U)
-- [Red Hot Chili Peppers - By the Way](https://music.youtube.com/playlist?list=OLAK5uy_mMa5i7OJDtHbIxX8Vl87xVzphCfy24Bhw)
-- [Filter - The Amalgamut](https://music.youtube.com/playlist?list=OLAK5uy_lMhxoxeQfdBsOiY_9-hkcoeZA-sVRsOuw)
+- [ ] [Foo Fighters - One By One](https://music.youtube.com/playlist?list=OLAK5uy_nR36vkErboYwzNp7FEvUsVm6pNdOrsS7U)
+- [ ] [Red Hot Chili Peppers - By the Way](https://music.youtube.com/playlist?list=OLAK5uy_mMa5i7OJDtHbIxX8Vl87xVzphCfy24Bhw)
+- [ ] [Filter - The Amalgamut](https://music.youtube.com/playlist?list=OLAK5uy_lMhxoxeQfdBsOiY_9-hkcoeZA-sVRsOuw)
   
 ## 2001
-- [Puddle Of Mudd - Come Clean](https://music.youtube.com/playlist?list=OLAK5uy_nUOjF3ixMriTL16sHIsGGa62JGtnO8c6o)
-- [Alien Ant Farm - Anthology](https://music.youtube.com/playlist?list=OLAK5uy_lQc3Q9T0CHpDDmby0IpqCv7uIHGjwfqxw)
-- [Rammstein - Mutter](https://music.youtube.com/playlist?list=OLAK5uy_nNutR-J9j_crO8GqSKSbEF-fQVGnPVBzE)
+- [ ] [Puddle Of Mudd - Come Clean](https://music.youtube.com/playlist?list=OLAK5uy_nUOjF3ixMriTL16sHIsGGa62JGtnO8c6o)
+- [ ] [Alien Ant Farm - Anthology](https://music.youtube.com/playlist?list=OLAK5uy_lQc3Q9T0CHpDDmby0IpqCv7uIHGjwfqxw)
+- [ ] [Rammstein - Mutter](https://music.youtube.com/playlist?list=OLAK5uy_nNutR-J9j_crO8GqSKSbEF-fQVGnPVBzE)
 - [Creed - Weathered](https://music.youtube.com/playlist?list=OLAK5uy_nwTd6EyHJFQzaamlWH9X7shSilBivHj6M)
 - [Flaw - Through The Eyes](https://music.youtube.com/playlist?list=OLAK5uy_lYcJJ9JhjxQgE54rs-bK55352iUQaZoAI)
 
