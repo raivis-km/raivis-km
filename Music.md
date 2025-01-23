@@ -30,17 +30,17 @@
 
 ## 2006
 - [x] [My Chemical Romance - The Black Parade](https://music.youtube.com/playlist?list=OLAK5uy_ne_HSgrl27Y4cfAMhcSWjbVhcafZ4wmMA)
-- [Breaking Benjamin - Phobia](https://music.youtube.com/playlist?list=OLAK5uy_kXsvrgPZdApbM7fm_3IBap64LIANiUUwE)
+- [ ] [Breaking Benjamin - Phobia](https://music.youtube.com/playlist?list=OLAK5uy_kXsvrgPZdApbM7fm_3IBap64LIANiUUwE)
   
 ## 2005
-- [Seether - Karma & Effect](https://music.youtube.com/playlist?list=OLAK5uy_kFHnTlv1VTMNGT2mLq-UvSbEjilyiloF4)
-- [Korn - See You On the Other Side](https://music.youtube.com/playlist?list=OLAK5uy_nWTAgGvIEBjmwSqiHcCcNUSv3DN04iqgA)
+- [ ] [Seether - Karma & Effect](https://music.youtube.com/playlist?list=OLAK5uy_kFHnTlv1VTMNGT2mLq-UvSbEjilyiloF4)
+- [ ] [Korn - See You On the Other Side](https://music.youtube.com/playlist?list=OLAK5uy_nWTAgGvIEBjmwSqiHcCcNUSv3DN04iqgA)
   
 ## 2004
 - [x] [Green Day - American Idiot](https://music.youtube.com/playlist?list=OLAK5uy_mmM6IEvxyWMmJhYOVc3YyFUH7espfFHP4)
 - [ ] [Fatboy Slim - Palookaville](https://music.youtube.com/playlist?list=OLAK5uy_lJpXHe_FNQLKguhMQb7D5qYw50Wo-_Y60)
 - [ ] [Papa Roach - Getting Away With Murder](https://music.youtube.com/playlist?list=OLAK5uy_nnLSc3PL8hU5rVtxfjjg5QU5U7-Rn2RbQ)
-- [ ][Rammstein - Reise, Reise](https://music.youtube.com/playlist?list=OLAK5uy_k2AtKMOcMEkDfMvoKJrl1ByHUMqMo_KVI)
+- [ ] [Rammstein - Reise, Reise](https://music.youtube.com/playlist?list=OLAK5uy_k2AtKMOcMEkDfMvoKJrl1ByHUMqMo_KVI)
 - [ ] [Blindside - About A Burning Fire](https://music.youtube.com/playlist?list=OLAK5uy_me70Qu5beXpn86xWXDGAJwNZYsHKTnyFA)
 
 ## 2003
@@ -59,63 +59,63 @@
 - [ ] [Puddle Of Mudd - Come Clean](https://music.youtube.com/playlist?list=OLAK5uy_nUOjF3ixMriTL16sHIsGGa62JGtnO8c6o)
 - [ ] [Alien Ant Farm - Anthology](https://music.youtube.com/playlist?list=OLAK5uy_lQc3Q9T0CHpDDmby0IpqCv7uIHGjwfqxw)
 - [ ] [Rammstein - Mutter](https://music.youtube.com/playlist?list=OLAK5uy_nNutR-J9j_crO8GqSKSbEF-fQVGnPVBzE)
-- [Creed - Weathered](https://music.youtube.com/playlist?list=OLAK5uy_nwTd6EyHJFQzaamlWH9X7shSilBivHj6M)
-- [Flaw - Through The Eyes](https://music.youtube.com/playlist?list=OLAK5uy_lYcJJ9JhjxQgE54rs-bK55352iUQaZoAI)
+- [ ] [Creed - Weathered](https://music.youtube.com/playlist?list=OLAK5uy_nwTd6EyHJFQzaamlWH9X7shSilBivHj6M)
+- [ ] [Flaw - Through The Eyes](https://music.youtube.com/playlist?list=OLAK5uy_lYcJJ9JhjxQgE54rs-bK55352iUQaZoAI)
 
 ## 2000
-- [Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water](https://music.youtube.com/playlist?list=OLAK5uy_ndIIX6Vphp1jyPMuOZXRiebtUOu9loJ20)
-- [3 Doors Down - The Better Life](https://music.youtube.com/playlist?list=OLAK5uy_kGAaQomWBR3w50HIZ7nUa11_Gq9QOY__U)
+- [ ] [Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water](https://music.youtube.com/playlist?list=OLAK5uy_ndIIX6Vphp1jyPMuOZXRiebtUOu9loJ20)
+- [ ] [3 Doors Down - The Better Life](https://music.youtube.com/playlist?list=OLAK5uy_kGAaQomWBR3w50HIZ7nUa11_Gq9QOY__U)
 
 ## 1999
-- [Red Hot Chili Peppers- Californication](https://music.youtube.com/playlist?list=OLAK5uy_kTnNQq084U1cNShZyo2NpbMRg2-bbuMco)
-- [Machine Head - The Burning Red](https://music.youtube.com/playlist?list=OLAK5uy_l5Ojsr1ID_P5zLVTHwVaWeGCXsyOR7kOo)
-- [Powerman 5000 - Tonight The Stars Revolt](https://music.youtube.com/playlist?list=OLAK5uy_kLM8pDBjoPHGjlJ6gUQGHj6ZjXlw-_GkI)
-- [Crazy Town - The Gift Of Game](https://music.youtube.com/playlist?list=OLAK5uy_kKd3YA9sUYKCSdynkE3yz8Ar5gZdSL5H4)
+- [x] [Red Hot Chili Peppers- Californication](https://music.youtube.com/playlist?list=OLAK5uy_kTnNQq084U1cNShZyo2NpbMRg2-bbuMco)
+- [x] [Machine Head - The Burning Red](https://music.youtube.com/playlist?list=OLAK5uy_l5Ojsr1ID_P5zLVTHwVaWeGCXsyOR7kOo)
+- [ ] [Powerman 5000 - Tonight The Stars Revolt](https://music.youtube.com/playlist?list=OLAK5uy_kLM8pDBjoPHGjlJ6gUQGHj6ZjXlw-_GkI)
+- [ ] [Crazy Town - The Gift Of Game](https://music.youtube.com/playlist?list=OLAK5uy_kKd3YA9sUYKCSdynkE3yz8Ar5gZdSL5H4)
 
 ## 1998
-- [Korn - Follow The Leader](https://music.youtube.com/playlist?list=OLAK5uy_l9DBNhKxExv0Xd2CrzEY0vmUupeVjzRVw)
-- [Placebo - Without You I'm Nothing](https://music.youtube.com/playlist?list=OLAK5uy_m5AmvFW6sbIUHpBYVrJJOGzhqf9dbQIOE)
-- [Hole - Celebrity Skin](https://music.youtube.com/playlist?list=OLAK5uy_mKJJrDzqV99pGZjqIHCozze4gIJSsiD8g)
+- [ ] [Korn - Follow The Leader](https://music.youtube.com/playlist?list=OLAK5uy_l9DBNhKxExv0Xd2CrzEY0vmUupeVjzRVw)
+- [ ] [Placebo - Without You I'm Nothing](https://music.youtube.com/playlist?list=OLAK5uy_m5AmvFW6sbIUHpBYVrJJOGzhqf9dbQIOE)
+- [ ] [Hole - Celebrity Skin](https://music.youtube.com/playlist?list=OLAK5uy_mKJJrDzqV99pGZjqIHCozze4gIJSsiD8g)
   
 ## 1997
-- [Creed - My Own Prison](https://music.youtube.com/playlist?list=OLAK5uy_mIr2UsmyOTbL5WbCb1HiDMhw1-n-4h2CM)
-- [The Prodigy - The Fat of the Land](https://music.youtube.com/playlist?list=OLAK5uy_l8N9VhE-C5aH8Cj0Lfn2nk3IJexBcN3EI)
+- [ ] [Creed - My Own Prison](https://music.youtube.com/playlist?list=OLAK5uy_mIr2UsmyOTbL5WbCb1HiDMhw1-n-4h2CM)
+- [ ] [The Prodigy - The Fat of the Land](https://music.youtube.com/playlist?list=OLAK5uy_l8N9VhE-C5aH8Cj0Lfn2nk3IJexBcN3EI)
 
 ## 1995
- - [Seven Mary Three - American Standard](https://music.youtube.com/playlist?list=OLAK5uy_kajp_LVOWuN6cWLfBW_joW8gYgqmfxSks)
- - [Smashing Pumpkins - Mellon Collie and the Infinite Sadness](https://music.youtube.com/playlist?list=OLAK5uy_k00TJUAla-j386Kzl12O6C8TBcyFxBo48)
+ - [ ] [Seven Mary Three - American Standard](https://music.youtube.com/playlist?list=OLAK5uy_kajp_LVOWuN6cWLfBW_joW8gYgqmfxSks)
+ - [ ] [Smashing Pumpkins - Mellon Collie and the Infinite Sadness](https://music.youtube.com/playlist?list=OLAK5uy_k00TJUAla-j386Kzl12O6C8TBcyFxBo48)
 
 ## 1994
-- [Hole - Live Through This](https://music.youtube.com/playlist?list=OLAK5uy_ldZOaTy96cvyYrUpXhb1XeAC0DugOLYd8)
-- [Therapy? - Troublegum](https://music.youtube.com/playlist?list=OLAK5uy_mPppgAyNjFhikWoNqer5Uj_dIwYyHzqzQ)
-- [Bush - Sixteen Stone](https://music.youtube.com/playlist?list=OLAK5uy_l8FV6iwpMMTHwSELNqsutodC6GJs_GFIQ)
+- [ ] [Hole - Live Through This](https://music.youtube.com/playlist?list=OLAK5uy_ldZOaTy96cvyYrUpXhb1XeAC0DugOLYd8)
+- [ ] [Therapy? - Troublegum](https://music.youtube.com/playlist?list=OLAK5uy_mPppgAyNjFhikWoNqer5Uj_dIwYyHzqzQ)
+- [ ] [Bush - Sixteen Stone](https://music.youtube.com/playlist?list=OLAK5uy_l8FV6iwpMMTHwSELNqsutodC6GJs_GFIQ)
   
 ## 1993
-- [Smashing Pumpkins - Siamese Dream](https://music.youtube.com/playlist?list=OLAK5uy_mh5IhxrZWEvvjmF8oj4owU8X9J-n3EtnQ)
-- [Candlebox](https://music.youtube.com/playlist?list=OLAK5uy_nsNyvS-JuSzD6sm3oLQQzrm8woq7PSjKc)
-- [Alice In Chains - Jar Of Flies](https://music.youtube.com/playlist?list=OLAK5uy_nm3C0nN-sovADKdh74Mgm5spUGFBzoO8Q)
+- [ ] [Smashing Pumpkins - Siamese Dream](https://music.youtube.com/playlist?list=OLAK5uy_mh5IhxrZWEvvjmF8oj4owU8X9J-n3EtnQ)
+- [ ] [Candlebox](https://music.youtube.com/playlist?list=OLAK5uy_nsNyvS-JuSzD6sm3oLQQzrm8woq7PSjKc)
+- [ ] [Alice In Chains - Jar Of Flies](https://music.youtube.com/playlist?list=OLAK5uy_nm3C0nN-sovADKdh74Mgm5spUGFBzoO8Q)
 
 ## 1992
-- [Pearl Jam - Jeremy](https://music.youtube.com/playlist?list=OLAK5uy_nobNqHCf5-rNeGMz3nDgu96DoyAeIpx7M)
+- [ ] [Pearl Jam - Jeremy](https://music.youtube.com/playlist?list=OLAK5uy_nobNqHCf5-rNeGMz3nDgu96DoyAeIpx7M)
 
 ## 1991
-- [Pearl Jam - Ten](https://music.youtube.com/playlist?list=OLAK5uy_nCmmq03HsHVw9jrLUPm1SfKXIwuCQ1hXk)
-- [Nirvana - Nevermind](https://music.youtube.com/playlist?list=OLAK5uy_lYnxawfGdkGePjdFhIYaS6LjP-Md6UYf0)
-- [Soundgarden - Badmotorfinger](https://music.youtube.com/playlist?list=OLAK5uy_n1puzrqoAW5xmKJ5Wp_N1srpQm8gryt8M)
+- [ ] [Pearl Jam - Ten](https://music.youtube.com/playlist?list=OLAK5uy_nCmmq03HsHVw9jrLUPm1SfKXIwuCQ1hXk)
+- [x] [Nirvana - Nevermind](https://music.youtube.com/playlist?list=OLAK5uy_lYnxawfGdkGePjdFhIYaS6LjP-Md6UYf0)
+- [ ] [Soundgarden - Badmotorfinger](https://music.youtube.com/playlist?list=OLAK5uy_n1puzrqoAW5xmKJ5Wp_N1srpQm8gryt8M)
 
 ## 1990
-- [Alice In Chains - Facelift](https://music.youtube.com/playlist?list=OLAK5uy_krGjVxCI3i6ufQxi7ghontF0BAmva13qs)
-- [Paradise Lost - Lost Paradise](https://music.youtube.com/playlist?list=OLAK5uy_njmQ76RSn96-dW5LYAQkmR59orIGeO9B8)
+- [ ] [Alice In Chains - Facelift](https://music.youtube.com/playlist?list=OLAK5uy_krGjVxCI3i6ufQxi7ghontF0BAmva13qs)
+- [x] [Paradise Lost - Lost Paradise](https://music.youtube.com/playlist?list=OLAK5uy_njmQ76RSn96-dW5LYAQkmR59orIGeO9B8)
   
 ## 1989
-- [Nirvana - Bleach](https://music.youtube.com/playlist?list=OLAK5uy_l33lV-pSSSn7IHoVBPYrblCO9mLI5ICVc)
+- [x] [Nirvana - Bleach](https://music.youtube.com/playlist?list=OLAK5uy_l33lV-pSSSn7IHoVBPYrblCO9mLI5ICVc)
 
 ## 1988
-- [Metallica - ...And Justice for All](https://music.youtube.com/playlist?list=OLAK5uy_nfd04cpVQ9Xv0UsOTBshL1TU6O2vz-rhg)
+- [x] [Metallica - ...And Justice for All](https://music.youtube.com/playlist?list=OLAK5uy_nfd04cpVQ9Xv0UsOTBshL1TU6O2vz-rhg)
 
 ## 1983
-- [Metallica - Kill 'Em All](https://music.youtube.com/playlist?list=OLAK5uy_m-35U84Nfew9lXmlFNJD_DStZacRYoqWo)
+- [] [Metallica - Kill 'Em All](https://music.youtube.com/playlist?list=OLAK5uy_m-35U84Nfew9lXmlFNJD_DStZacRYoqWo)
 
 ## 1968
-- [The Beatles – "The White Album"](https://music.youtube.com/playlist?list=OLAK5uy_ngFkZaiOccd84mOWCf4mZKbJrvsPzm8BE)
-- [Blood, Sweat & Tears](https://music.youtube.com/playlist?list=OLAK5uy_llSW3Z-A7AIMgYHlVVH8IoBKy66uAxQa0)
+- [x] [The Beatles – "The White Album"](https://music.youtube.com/playlist?list=OLAK5uy_ngFkZaiOccd84mOWCf4mZKbJrvsPzm8BE)
+- [ ] [Blood, Sweat & Tears](https://music.youtube.com/playlist?list=OLAK5uy_llSW3Z-A7AIMgYHlVVH8IoBKy66uAxQa0)
