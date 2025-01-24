@@ -9,4 +9,4 @@
  - [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.google.lv/books/edition/The_Clean_Coder/ik0qCTVzl44C?hl=lv&gbpv=0)
 
 # Completed
-- 
+- [The Last Empire: The Final Days of the Soviet Union](https://en.wikipedia.org/wiki/Serhii_Plokhy)
