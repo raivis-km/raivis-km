@@ -10,7 +10,11 @@
 - [Yle](https://yle.fi/news)
 
 ### Sweden
-- ?
+- [Radio Sweeden](https://www.sverigesradio.se/radiosweden)
+- [Sydsvenskan](https://www.sydsvenskan.se/)
+- [Svenska Dagbladet](https://www.svd.se/)
+- [Geöteborgs-Posten](https://www.gp.se/)
+- [The Local](https://www.thelocal.se/)
   
 ### Norway
 - ?
