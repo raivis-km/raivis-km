@@ -53,9 +53,11 @@
 ## 2002
 - [ ] [Foo Fighters - One By One](https://music.youtube.com/playlist?list=OLAK5uy_nR36vkErboYwzNp7FEvUsVm6pNdOrsS7U)
 - [ ] [Red Hot Chili Peppers - By the Way](https://music.youtube.com/playlist?list=OLAK5uy_mMa5i7OJDtHbIxX8Vl87xVzphCfy24Bhw)
+- [ ] [Adema - Insomniac's Dream](https://music.youtube.com/playlist?list=OLAK5uy_kpnoNWv2gjfrJVjsfaTPt0TxEyEzJQiOc)
 - [ ] [Filter - The Amalgamut](https://music.youtube.com/playlist?list=OLAK5uy_lMhxoxeQfdBsOiY_9-hkcoeZA-sVRsOuw)
   
 ## 2001
+- [ ] [Adema](https://music.youtube.com/playlist?list=OLAK5uy_kCZgxsvfRXHut7gbw8n7VG9FUmD7MyQWU)
 - [ ] [Puddle Of Mudd - Come Clean](https://music.youtube.com/playlist?list=OLAK5uy_nUOjF3ixMriTL16sHIsGGa62JGtnO8c6o)
 - [ ] [Alien Ant Farm - Anthology](https://music.youtube.com/playlist?list=OLAK5uy_lQc3Q9T0CHpDDmby0IpqCv7uIHGjwfqxw)
 - [ ] [Rammstein - Mutter](https://music.youtube.com/playlist?list=OLAK5uy_nNutR-J9j_crO8GqSKSbEF-fQVGnPVBzE)
