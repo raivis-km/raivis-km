@@ -101,7 +101,7 @@
 - [ ] [Pearl Jam - Jeremy](https://music.youtube.com/playlist?list=OLAK5uy_nobNqHCf5-rNeGMz3nDgu96DoyAeIpx7M)
 
 ## 1991
-- [ ] [Pearl Jam - Ten](https://music.youtube.com/playlist?list=OLAK5uy_nCmmq03HsHVw9jrLUPm1SfKXIwuCQ1hXk)
+- [x] [Pearl Jam - Ten](https://music.youtube.com/playlist?list=OLAK5uy_nCmmq03HsHVw9jrLUPm1SfKXIwuCQ1hXk)
 - [x] [Nirvana - Nevermind](https://music.youtube.com/playlist?list=OLAK5uy_lYnxawfGdkGePjdFhIYaS6LjP-Md6UYf0)
 - [ ] [Soundgarden - Badmotorfinger](https://music.youtube.com/playlist?list=OLAK5uy_n1puzrqoAW5xmKJ5Wp_N1srpQm8gryt8M)
 
@@ -116,7 +116,7 @@
 - [x] [Metallica - ...And Justice for All](https://music.youtube.com/playlist?list=OLAK5uy_nfd04cpVQ9Xv0UsOTBshL1TU6O2vz-rhg)
 
 ## 1983
-- [] [Metallica - Kill 'Em All](https://music.youtube.com/playlist?list=OLAK5uy_m-35U84Nfew9lXmlFNJD_DStZacRYoqWo)
+- [ ] [Metallica - Kill 'Em All](https://music.youtube.com/playlist?list=OLAK5uy_m-35U84Nfew9lXmlFNJD_DStZacRYoqWo)
 
 ## 1968
 - [x] [The Beatles – "The White Album"](https://music.youtube.com/playlist?list=OLAK5uy_ngFkZaiOccd84mOWCf4mZKbJrvsPzm8BE)
