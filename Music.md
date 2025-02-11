@@ -1,5 +1,6 @@
 # Radio
 - [Radio Paradise](https://radioparadise.com/home)
+- [Radio 1's Rock Show with Daniel P Carter](https://www.bbc.co.uk/programmes/b006wq4s)
 - [Kurzemes Radio](https://kurzemesradio.lv/)
 - [Radio Garden](https://radio.garden)
 - [Radiooooo](https://radiooooo.com/)
