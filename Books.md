@@ -2,6 +2,8 @@
  - [Gulag: A History, by Anne Applebaum](https://en.wikipedia.org/wiki/Gulag:_A_History)
 
 # Want to read
+- [Unsouled, by Will Wight](https://www.goodreads.com/book/show/30558257-unsouled)
+
 ## Technical stuff
  - [Refactoring: Improving the Design of Existing Code](https://www.google.lv/books/edition/Refactoring/2H1_DwAAQBAJ?hl=lv&gbpv=0)
  - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.google.lv/books/edition/Clean_Code/_i6bDeoCQzsC?hl=lv&gbpv=0)
