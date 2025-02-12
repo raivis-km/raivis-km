@@ -32,6 +32,7 @@
 # Investigative Journalism
 - [Global Investigative Journalism Network](https://gijn.org/)
 - [Bellingcat](https://www.bellingcat.com/)
+- [Snopes](https://www.snopes.com/)
 
 # Blogs etc
 - [The War Zone](https://www.twz.com/)
