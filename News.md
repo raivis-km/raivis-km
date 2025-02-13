@@ -36,3 +36,4 @@
 
 # Blogs etc
 - [The War Zone](https://www.twz.com/)
+- [Institute for the Study of War](https://www.understandingwar.org/)
