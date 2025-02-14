@@ -8,6 +8,9 @@
 - [ ] [Russia could start a major war in Europe within 5 years, Danish intelligence warns](https://www.politico.eu/article/russia-war-threat-europe-within-5-years-danish-intelligence-ddis-warns/) - February 11, 2025
 
 # 2026
+- [ ] [Crazy' Putin could attack NATO in 2026, Russia building up troops in Belarus, Zelensky says](https://kyivindependent.com/zelensky-warns-of-russian-military-buildup-potential-nato-threat-in-2026/)
+- [ ] Russia is possibly preparing for a major military escalation, potentially targeting NATO countries next year, President Volodymyr Zelensky said on Feb. 14
+      
 ## 2
 - [ ] [Hyundai May Reveal Its Game-Changing Solid State Battery In March: Report](https://insideevs.com/news/750505/hyundai-solid-state-battery-ev-reveal-march/)
 - [ ] Local news reports out of South Korea suggest that Hyundai is planning to reveal its first solid-state battery pack in March.
