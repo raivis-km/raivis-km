@@ -17,10 +17,14 @@
 - [The Local](https://www.thelocal.se/)
   
 ### Norway
-- ?
+- [Norsk Rikskringkasting](https://www.nrk.no/)
+- [Aftenposten](https://www.aftenposten.no/)
+- [Dagens Næringsliv](https://www.dn.no/)
 
 ### Denmark
-- ?
+- [DR](https://www.dr.dk/)
+- [Politiken](https://politiken.dk/)
+- [Berlingske](https://www.berlingske.dk/)
   
 ## Europe
 - [DW](https://www.dw.com/en/)
@@ -28,6 +32,7 @@
 ## World news
 - [AP News](https://apnews.com/)
 - [Reuters](https://www.reuters.com/)
+- [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker)
   
 # Investigative Journalism
 - [Global Investigative Journalism Network](https://gijn.org/)
