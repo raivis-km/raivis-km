@@ -1,8 +1,8 @@
 # Currently reading
- - [Gulag: A History, by Anne Applebaum](https://en.wikipedia.org/wiki/Gulag:_A_History)
+- [Unsouled, by Will Wight](https://www.goodreads.com/book/show/30558257-unsouled)
 
 # Want to read
-- [Unsouled, by Will Wight](https://www.goodreads.com/book/show/30558257-unsouled)
+
 
 ## Technical stuff
  - [Refactoring: Improving the Design of Existing Code](https://www.google.lv/books/edition/Refactoring/2H1_DwAAQBAJ?hl=lv&gbpv=0)
@@ -11,4 +11,5 @@
  - [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.google.lv/books/edition/The_Clean_Coder/ik0qCTVzl44C?hl=lv&gbpv=0)
 
 # Completed
+- [Gulag: A History, by Anne Applebaum](https://en.wikipedia.org/wiki/Gulag:_A_History)
 - [The Last Empire: The Final Days of the Soviet Union](https://en.wikipedia.org/wiki/Serhii_Plokhy)
