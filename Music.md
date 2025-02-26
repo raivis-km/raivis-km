@@ -12,6 +12,8 @@
 ## 2024
 - [x] [Zeal & Ardor - GREIF](https://music.youtube.com/playlist?list=OLAK5uy_npjc-G0QzXibg5_lhIWgXQPF6_cGsuFbA)
 
+## 2023
+- [x] [Sulphur Aeon - Seven Crowns And Seven Seals](https://music.youtube.com/playlist?list=OLAK5uy_l1jFfFf2-U_cwHS4XpRd3u6q31OWkv7mA)
 
 ## 2022
 - [x] [Zeal & Ardor](https://music.youtube.com/playlist?list=OLAK5uy_nBiHN_Zj9zWDliqLBHDVE790BUwqFrNws)
@@ -22,9 +24,16 @@
   
 ## 2018
 - [x] [Zeal & Ardor - Stranger Fruit](https://music.youtube.com/playlist?list=OLAK5uy_mvFMmnhOJigc1mk147QRYqfyvkIdV3f-k)
+- [x] [Sulphur Aeon - The Scythe of Cosmic Chaos](https://music.youtube.com/playlist?list=OLAK5uy_mdeEJNmt2kZ4bbb6WVpnIu4COB6TLbWRY)
 
 ## 2017
 - [x] [Zeal & Ardor - Devil Is Fine](https://music.youtube.com/playlist?list=OLAK5uy_m0ZfMi3YYSJbZwWzndNyLE7qR-sYuTPPo)
+
+## 2016
+- [ ] [Sulphur Aeon - Gateway to the Antisphere](https://music.youtube.com/playlist?list=OLAK5uy_l6t92tcx6GAhlti8XYKBO3zZGiA11eWDk)
+
+## 2013
+- [ ] [Sulphur Aeon - Swallowed by the Ocean's Tide](https://music.youtube.com/playlist?list=OLAK5uy_mh7JphnlNS6-VCSQvwvxkUb79Jp0KOPws)
 
 ## 2007
 - [ ] [Foo Fighters - Echoes, Silence, Patience & Grace](https://music.youtube.com/playlist?list=OLAK5uy_nxn8Zv2ewQJB-bOHbholRKxn_-3-zaTx0)
