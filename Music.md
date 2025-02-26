@@ -21,6 +21,7 @@
 ## 2020
 - [ ] [Bring Me The Horizon - POST HUMAN: SURVIVAL HORROR](https://music.youtube.com/playlist?list=OLAK5uy_l9TPf1JXY6tsKaKURirxb8uhuIelX1kb4)
 - [ ] [Apocalyptica - Worlds Collide](https://music.youtube.com/playlist?list=OLAK5uy_m8MeVujdjjA3oXK8qzeCLlnPlTOvC5NEU)
+- [ ] [Run The Jewels - RTJ4](https://music.youtube.com/playlist?list=OLAK5uy_kWbQ0AlGGGglkUV23IG1Gozn68DYGDbFs)
   
 ## 2018
 - [x] [Zeal & Ardor - Stranger Fruit](https://music.youtube.com/playlist?list=OLAK5uy_mvFMmnhOJigc1mk147QRYqfyvkIdV3f-k)
@@ -31,10 +32,15 @@
 
 ## 2016
 - [ ] [Sulphur Aeon - Gateway to the Antisphere](https://music.youtube.com/playlist?list=OLAK5uy_l6t92tcx6GAhlti8XYKBO3zZGiA11eWDk)
+- [ ] [Run The Jewels 3](https://music.youtube.com/playlist?list=OLAK5uy_n9eofVyWLpabp-cM4Gwks9IIsLDdtE6Yk)
+      
+## 2014
+- [ ] [Run The Jewels 2](https://music.youtube.com/playlist?list=OLAK5uy_molU0wWEqwTsT48qNLRG0akU-RQWhJ18k)
 
 ## 2013
 - [ ] [Sulphur Aeon - Swallowed by the Ocean's Tide](https://music.youtube.com/playlist?list=OLAK5uy_mh7JphnlNS6-VCSQvwvxkUb79Jp0KOPws)
-
+- [x] [Run The Jewels](https://music.youtube.com/playlist?list=OLAK5uy_kN_OJJntSR_6zNlgYPBL2qAeCQZvzcma4)
+      
 ## 2007
 - [ ] [Foo Fighters - Echoes, Silence, Patience & Grace](https://music.youtube.com/playlist?list=OLAK5uy_nxn8Zv2ewQJB-bOHbholRKxn_-3-zaTx0)
 
