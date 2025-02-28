@@ -54,6 +54,7 @@
   
 ## 2004
 - [x] [Green Day - American Idiot](https://music.youtube.com/playlist?list=OLAK5uy_mmM6IEvxyWMmJhYOVc3YyFUH7espfFHP4)
+- [ ] [Papa Roach - Getting Away With Murder](https://music.youtube.com/playlist?list=OLAK5uy_nnLSc3PL8hU5rVtxfjjg5QU5U7-Rn2RbQ)
 - [ ] [Fatboy Slim - Palookaville](https://music.youtube.com/playlist?list=OLAK5uy_lJpXHe_FNQLKguhMQb7D5qYw50Wo-_Y60)
 - [ ] [Papa Roach - Getting Away With Murder](https://music.youtube.com/playlist?list=OLAK5uy_nnLSc3PL8hU5rVtxfjjg5QU5U7-Rn2RbQ)
 - [ ] [Rammstein - Reise, Reise](https://music.youtube.com/playlist?list=OLAK5uy_k2AtKMOcMEkDfMvoKJrl1ByHUMqMo_KVI)
@@ -72,6 +73,7 @@
 - [ ] [Red Hot Chili Peppers - By the Way](https://music.youtube.com/playlist?list=OLAK5uy_mMa5i7OJDtHbIxX8Vl87xVzphCfy24Bhw)
 - [ ] [Adema - Insomniac's Dream](https://music.youtube.com/playlist?list=OLAK5uy_kpnoNWv2gjfrJVjsfaTPt0TxEyEzJQiOc)
 - [ ] [Filter - The Amalgamut](https://music.youtube.com/playlist?list=OLAK5uy_lMhxoxeQfdBsOiY_9-hkcoeZA-sVRsOuw)
+- [ ] [Papa Roach - lovehatetragedy](https://music.youtube.com/playlist?list=OLAK5uy_no0gbIvN4hyCqV1wkXWqE39j-y0Zw-vXw)
   
 ## 2001
 - [ ] [Adema](https://music.youtube.com/playlist?list=OLAK5uy_kCZgxsvfRXHut7gbw8n7VG9FUmD7MyQWU)
@@ -84,6 +86,7 @@
 ## 2000
 - [ ] [Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water](https://music.youtube.com/playlist?list=OLAK5uy_ndIIX6Vphp1jyPMuOZXRiebtUOu9loJ20)
 - [ ] [3 Doors Down - The Better Life](https://music.youtube.com/playlist?list=OLAK5uy_kGAaQomWBR3w50HIZ7nUa11_Gq9QOY__U)
+- [ ] [Papa Roach - Infest](https://music.youtube.com/playlist?list=OLAK5uy_kTHiWStYIU7_2n1pjJtOwTKZCs2Zneg8A)
 
 ## 1999
 - [x] [Red Hot Chili Peppers- Californication](https://music.youtube.com/playlist?list=OLAK5uy_kTnNQq084U1cNShZyo2NpbMRg2-bbuMco)
