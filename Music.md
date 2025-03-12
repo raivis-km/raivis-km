@@ -138,7 +138,3 @@
 
 ## 1983
 - [ ] [Metallica - Kill 'Em All](https://music.youtube.com/playlist?list=OLAK5uy_m-35U84Nfew9lXmlFNJD_DStZacRYoqWo)
-
-## 1968
-- [x] [The Beatles – "The White Album"](https://music.youtube.com/playlist?list=OLAK5uy_ngFkZaiOccd84mOWCf4mZKbJrvsPzm8BE)
-- [ ] [Blood, Sweat & Tears](https://music.youtube.com/playlist?list=OLAK5uy_llSW3Z-A7AIMgYHlVVH8IoBKy66uAxQa0)
