@@ -7,6 +7,10 @@
 ## 2
 - [ ] [Russia could start a major war in Europe within 5 years, Danish intelligence warns](https://www.politico.eu/article/russia-war-threat-europe-within-5-years-danish-intelligence-ddis-warns/) - February 11, 2025
 
+# 2027
+- [ ] [autonomous Cybercab would be in production “in 2026” / “before 2027”, cost below US$30,000, also, robovan](https://www.theguardian.com/technology/2024/oct/11/elon-musk-unveils-tesla-cybercab-self-driving-robotaxi)
+
+
 # 2026
 - [ ] [Crazy' Putin could attack NATO in 2026, Russia building up troops in Belarus, Zelensky says](https://kyivindependent.com/zelensky-warns-of-russian-military-buildup-potential-nato-threat-in-2026/)
 - [ ] Russia is possibly preparing for a major military escalation, potentially targeting NATO countries next year, President Volodymyr Zelensky said on Feb. 14
