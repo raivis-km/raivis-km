@@ -25,6 +25,7 @@
 - [DR](https://www.dr.dk/)
 - [Politiken](https://politiken.dk/)
 - [Berlingske](https://www.berlingske.dk/)
+- [FødevareWatch](https://fodevarewatch.dk/)
   
 ## Europe
 - [DW](https://www.dw.com/en/)
