@@ -26,7 +26,10 @@
 - [Politiken](https://politiken.dk/)
 - [Berlingske](https://www.berlingske.dk/)
 - [FødevareWatch](https://fodevarewatch.dk/)
-  
+
+### Czechia
+- [Radio Prague International](https://english.radio.cz/)
+
 ## Europe
 - [DW](https://www.dw.com/en/)
 
