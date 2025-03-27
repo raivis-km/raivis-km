@@ -51,7 +51,8 @@
 ## 2005
 - [ ] [Seether - Karma & Effect](https://music.youtube.com/playlist?list=OLAK5uy_kFHnTlv1VTMNGT2mLq-UvSbEjilyiloF4)
 - [ ] [Korn - See You On the Other Side](https://music.youtube.com/playlist?list=OLAK5uy_nWTAgGvIEBjmwSqiHcCcNUSv3DN04iqgA)
-  
+- [ ] [Mudvayne - Lost and Found](https://music.youtube.com/playlist?list=OLAK5uy_k_95Tjxg8cHVwr-twZbQmLdqh_7kHvwVk)
+      
 ## 2004
 - [x] [Green Day - American Idiot](https://music.youtube.com/playlist?list=OLAK5uy_mmM6IEvxyWMmJhYOVc3YyFUH7espfFHP4)
 - [ ] [Papa Roach - Getting Away With Murder](https://music.youtube.com/playlist?list=OLAK5uy_nnLSc3PL8hU5rVtxfjjg5QU5U7-Rn2RbQ)
@@ -87,6 +88,7 @@
 - [ ] [Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water](https://music.youtube.com/playlist?list=OLAK5uy_ndIIX6Vphp1jyPMuOZXRiebtUOu9loJ20)
 - [ ] [3 Doors Down - The Better Life](https://music.youtube.com/playlist?list=OLAK5uy_kGAaQomWBR3w50HIZ7nUa11_Gq9QOY__U)
 - [ ] [Papa Roach - Infest](https://music.youtube.com/playlist?list=OLAK5uy_kTHiWStYIU7_2n1pjJtOwTKZCs2Zneg8A)
+- [ ] [Mudvayne - L.D. 50](https://music.youtube.com/playlist?list=OLAK5uy_ltPTk6ZwyDwazcdeLd1mWhcOSuQXKsP9o)
 
 ## 1999
 - [x] [Red Hot Chili Peppers- Californication](https://music.youtube.com/playlist?list=OLAK5uy_kTnNQq084U1cNShZyo2NpbMRg2-bbuMco)
