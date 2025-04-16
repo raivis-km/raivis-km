@@ -140,5 +140,8 @@
 ## 1988
 - [x] [Metallica - ...And Justice for All](https://music.youtube.com/playlist?list=OLAK5uy_nfd04cpVQ9Xv0UsOTBshL1TU6O2vz-rhg)
 
+## 1986
+- [x] [Beastie Boys - Licensed To Ill](https://music.youtube.com/playlist?list=OLAK5uy_mZ8GqAQaWyFT0o3f8PPgxGrh5Ykkcadhw)
+
 ## 1983
 - [ ] [Metallica - Kill 'Em All](https://music.youtube.com/playlist?list=OLAK5uy_m-35U84Nfew9lXmlFNJD_DStZacRYoqWo)
