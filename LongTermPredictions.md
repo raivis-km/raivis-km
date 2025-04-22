@@ -7,6 +7,9 @@
 ## 2
 - [ ] [Russia could start a major war in Europe within 5 years, Danish intelligence warns](https://www.politico.eu/article/russia-war-threat-europe-within-5-years-danish-intelligence-ddis-warns/) - February 11, 2025
 
+# 2029
+- [ ] [Russia will be capable of attacking NATO territory in 2029, – Inspector General of the German Bundeswehr Carsten Breuer.](https://x.com/Gerashchenko_en/status/1914199448709693623?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1914199448709693623%7Ctwgr%5Ecc3bdefaecb1ec88c0087f11137ee6d3b0311bb9%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.redditmedia.com%2Fmediaembed%2Fliveupdate%2F18hnzysb1elcs%2FLiveUpdate_86941b36-1f14-11f0-9b10-c606e4a55c9a%2F0)
+
 # 2027
 - [ ] [autonomous Cybercab would be in production “in 2026” / “before 2027”, cost below US$30,000, also, robovan](https://www.theguardian.com/technology/2024/oct/11/elon-musk-unveils-tesla-cybercab-self-driving-robotaxi)
 
