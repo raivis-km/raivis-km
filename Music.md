@@ -37,6 +37,7 @@
 ## 2014
 - [ ] [Run The Jewels 2](https://music.youtube.com/playlist?list=OLAK5uy_molU0wWEqwTsT48qNLRG0akU-RQWhJ18k)
 - [x] [In Flames - Siren Charms](https://music.youtube.com/playlist?list=OLAK5uy_lIpbmIJsrhaNMsYfc_IrbER8hi4owL6ZU)
+- [ ] [Seether - Isolate And Medicate](https://music.youtube.com/playlist?list=OLAK5uy_mTCvIH3VWZAuKgVGiYdPdk72zUHJAYKPU)
 
 ## 2013
 - [ ] [Sulphur Aeon - Swallowed by the Ocean's Tide](https://music.youtube.com/playlist?list=OLAK5uy_mh7JphnlNS6-VCSQvwvxkUb79Jp0KOPws)
