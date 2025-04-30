@@ -77,6 +77,7 @@
 - [ ] [Adema - Insomniac's Dream](https://music.youtube.com/playlist?list=OLAK5uy_kpnoNWv2gjfrJVjsfaTPt0TxEyEzJQiOc)
 - [ ] [Filter - The Amalgamut](https://music.youtube.com/playlist?list=OLAK5uy_lMhxoxeQfdBsOiY_9-hkcoeZA-sVRsOuw)
 - [ ] [Papa Roach - lovehatetragedy](https://music.youtube.com/playlist?list=OLAK5uy_no0gbIvN4hyCqV1wkXWqE39j-y0Zw-vXw)
+- [ ] [Paradise Lost - Symbol Of Life](https://music.youtube.com/playlist?list=OLAK5uy_nSOUx9sIr5BKNP0cwqb2tFuVRadB4DF4E)
   
 ## 2001
 - [ ] [Adema](https://music.youtube.com/playlist?list=OLAK5uy_kCZgxsvfRXHut7gbw8n7VG9FUmD7MyQWU)
