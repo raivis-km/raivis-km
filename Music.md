@@ -99,6 +99,7 @@
 - [ ] [blink-182 - Enema Of The State](https://music.youtube.com/playlist?list=OLAK5uy_kUN4Ot5COYQYgoz69St53IraeVz-N1EAc)
 - [ ] [Powerman 5000 - Tonight The Stars Revolt](https://music.youtube.com/playlist?list=OLAK5uy_kLM8pDBjoPHGjlJ6gUQGHj6ZjXlw-_GkI)
 - [ ] [Crazy Town - The Gift Of Game](https://music.youtube.com/playlist?list=OLAK5uy_kKd3YA9sUYKCSdynkE3yz8Ar5gZdSL5H4)
+- [ ] [Nickelback - The State](https://music.youtube.com/playlist?list=OLAK5uy_ksdGo5T1bHpRvTZIs1wg0ABCpgTGOoays)
 
 ## 1998
 - [ ] [Korn - Follow The Leader](https://music.youtube.com/playlist?list=OLAK5uy_l9DBNhKxExv0Xd2CrzEY0vmUupeVjzRVw)
