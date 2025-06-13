@@ -4,6 +4,7 @@
 - [ ] [What are you doing in 2032? Whatever it is, you’d best be looking up — because on December 22nd, an asteroid will streak through the night sky, making a very close flyby of the planet.](https://www.supercluster.com/editorial/an-asteroid-stands-a-chance-at-impacting-earth-are-we-prepared)
 
 # 2030
+- [ ] [Dzelzceļa projektā «Rail Baltica» aizvien liels risks pirmo kārtu nepabeigt līdz 2030. gadam](https://www.lsm.lv/raksts/zinas/latvija/13.06.2025-dzelzcela-projekta-rail-baltica-aizvien-liels-risks-pirmo-kartu-nepabeigt-lidz-2030-gadam.a603100/)
 ## 2
 - [ ] [Russia could start a major war in Europe within 5 years, Danish intelligence warns](https://www.politico.eu/article/russia-war-threat-europe-within-5-years-danish-intelligence-ddis-warns/) - February 11, 2025
 
