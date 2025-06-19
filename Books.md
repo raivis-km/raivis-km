@@ -1,6 +1,6 @@
 # Currently reading
-- [Unsouled, by Will Wight](https://www.goodreads.com/book/show/30558257-unsouled)
-
+- [A History of the Soviet Union from the Beginning to the End, by Peter Kenez]
+- 
 # Want to read
 
 
@@ -13,3 +13,6 @@
 # Completed
 - [Gulag: A History, by Anne Applebaum](https://en.wikipedia.org/wiki/Gulag:_A_History)
 - [The Last Empire: The Final Days of the Soviet Union](https://en.wikipedia.org/wiki/Serhii_Plokhy)
+
+# abandoned
+- [Unsouled, by Will Wight](https://www.goodreads.com/book/show/30558257-unsouled)
