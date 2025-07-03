@@ -102,6 +102,7 @@
 - [ ] [Nickelback - The State](https://music.youtube.com/playlist?list=OLAK5uy_ksdGo5T1bHpRvTZIs1wg0ABCpgTGOoays)
 
 ## 1998
+- [ ] [New Radicals - Maybe You've Been Brainwashed Too](https://music.youtube.com/playlist?list=OLAK5uy_lr_nR-CSprM73crfnBD01glPHtJKJ6IDE)
 - [ ] [Korn - Follow The Leader](https://music.youtube.com/playlist?list=OLAK5uy_l9DBNhKxExv0Xd2CrzEY0vmUupeVjzRVw)
 - [ ] [Placebo - Without You I'm Nothing](https://music.youtube.com/playlist?list=OLAK5uy_m5AmvFW6sbIUHpBYVrJJOGzhqf9dbQIOE)
 - [ ] [Hole - Celebrity Skin](https://music.youtube.com/playlist?list=OLAK5uy_mKJJrDzqV99pGZjqIHCozze4gIJSsiD8g)
