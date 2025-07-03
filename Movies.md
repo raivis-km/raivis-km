@@ -1,3 +1,6 @@
+# 1995 
+- [ ] [Sudden Death](https://www.imdb.com/title/tt0114576/?ref_=nv_sr_srsg_5_tt_8_nm_0_in_0_q_sudden)
+
 # 1988
 - [x] Bloodsport
 
