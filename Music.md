@@ -108,6 +108,7 @@
 - [ ] [Hole - Celebrity Skin](https://music.youtube.com/playlist?list=OLAK5uy_mKJJrDzqV99pGZjqIHCozze4gIJSsiD8g)
   
 ## 1997
+- [ ] [The Verve - Urban Hymns](https://music.youtube.com/playlist?list=OLAK5uy_kwHm7IYsHPYkH7jgJx6nx0NSvHLUybCVA)
 - [ ] [Creed - My Own Prison](https://music.youtube.com/playlist?list=OLAK5uy_mIr2UsmyOTbL5WbCb1HiDMhw1-n-4h2CM)
 - [ ] [The Prodigy - The Fat of the Land](https://music.youtube.com/playlist?list=OLAK5uy_l8N9VhE-C5aH8Cj0Lfn2nk3IJexBcN3EI)
 
