@@ -154,3 +154,4 @@
 # to check out
 - [ ] [Ruen Brothers - Ten Paces](https://music.youtube.com/playlist?list=OLAK5uy_mw-krZ5CxASRGFyfYYsMNc9b9MeVClM2g)
 - [ ] [Black Pumas - Chronicles of a Diamond](https://music.youtube.com/playlist?list=OLAK5uy_nxZcxvokYhOwuDvhzd-W-UwJxm0tzVJ3c)
+- [ ] Xavier Rudd
