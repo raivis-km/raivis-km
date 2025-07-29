@@ -1,6 +1,6 @@
 # Currently reading
-- [A History of the Soviet Union from the Beginning to the End, by Peter Kenez](A History of the Soviet Union from the Beginning to the End)
-- 
+- [A History of the Soviet Union from the Beginning to the End, by Peter Kenez](https://www.goodreads.com/lv/book/show/403080.A_History_of_the_Soviet_Union_from_the_Beginning_to_the_End))
+  
 # Want to read
 - [Iron Curtain: The Crushing of Eastern Europe 1944-1956, by Anne Applebaum](https://www.goodreads.com/book/show/13531848-iron-curtain?ref=rae_0)
 
