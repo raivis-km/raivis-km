@@ -3,6 +3,7 @@
   
 # Want to read
 - [Iron Curtain: The Crushing of Eastern Europe 1944-1956, by Anne Applebaum](https://www.goodreads.com/book/show/13531848-iron-curtain?ref=rae_0)
+- [Bloodlands: Europe Between Hitler and Stalin](https://www.goodreads.com/book/show/6572270-bloodlands?ref=rae_3)
 
 ## Technical stuff
  - [Refactoring: Improving the Design of Existing Code](https://www.google.lv/books/edition/Refactoring/2H1_DwAAQBAJ?hl=lv&gbpv=0)
@@ -14,5 +15,5 @@
 - [Gulag: A History, by Anne Applebaum](https://en.wikipedia.org/wiki/Gulag:_A_History)
 - [The Last Empire: The Final Days of the Soviet Union](https://en.wikipedia.org/wiki/Serhii_Plokhy)
 
-# abandoned
+# Abandoned
 - [Unsouled, by Will Wight](https://www.goodreads.com/book/show/30558257-unsouled)
