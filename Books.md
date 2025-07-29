@@ -1,8 +1,8 @@
 # Currently reading
-- [A History of the Soviet Union from the Beginning to the End, by Peter Kenez]
+- [A History of the Soviet Union from the Beginning to the End, by Peter Kenez](A History of the Soviet Union from the Beginning to the End)
 - 
 # Want to read
-
+- [Iron Curtain: The Crushing of Eastern Europe 1944-1956, by Anne Applebaum](https://www.goodreads.com/book/show/13531848-iron-curtain?ref=rae_0)
 
 ## Technical stuff
  - [Refactoring: Improving the Design of Existing Code](https://www.google.lv/books/edition/Refactoring/2H1_DwAAQBAJ?hl=lv&gbpv=0)
